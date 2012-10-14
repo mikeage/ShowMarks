@@ -1,1 +1,5 @@
+.gitignore
+*~
+*.swo
+*.swp
 tags
